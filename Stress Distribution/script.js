@@ -20,8 +20,8 @@ var render = Render.create({
     width: 800,
     height: 600,
     
-    // showStats: true,
-    // showPerformance: true,
+    showStats: false,
+    showPerformance: false,
 
     wireframes: false,
   },
